@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866885265880",
+    "project_id": "expense-voice-app",
+    "storage_bucket": "expense-voice-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866885265880:android:c3b5106364826bd0cb6aad",
+        "android_client_info": {
+          "package_name": "com.example.expensevoiceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866885265880-g658l8v6spe28hki96m7cs98ue7o4afp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutlLNVqqBF-mmwhjdFiEH6nqpIF2IsOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866885265880-g658l8v6spe28hki96m7cs98ue7o4afp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

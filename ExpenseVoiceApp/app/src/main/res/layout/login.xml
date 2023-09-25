@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/im1"
+        android:layout_width="87dp"
+        android:layout_height="84dp"
+        android:background="@drawable/hint"
+        android:onClick="initiateDialogPopUp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.977"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.024"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="398dp"
+        android:layout_height="546dp"
+        android:fontFamily="@font/ksr"
+        android:text="Hi!! \n \n Thank you for choosing this application to manage your expenses. \n \n These instructions are for you to smoothly handle the application \n \n 1.) Every Screen of the App has a Help Section (Top-Left Corner) which can help you to perform the necessary operations via voice to store command. \n 2.) You need to login using your Google Account so that all data can be stored and accessed anytime you want. \n 3.) Voice commands need to rendered in a specific fashion in order for data to be stored, which you will find in the Help Section. \n 4.) Enjoy the Application!!!! \n 5.) Start by finding the Help Section for instructions."
+        android:textSize="18.5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.461"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.497" />
+
+    <ImageButton
+        android:id="@+id/im2"
+        android:layout_width="246dp"
+        android:layout_height="63dp"
+        android:background="@drawable/gsignin"
+        android:onClick="initiateDialogPopUp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.955"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
