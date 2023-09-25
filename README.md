@@ -35,13 +35,9 @@ This codebase contains the project codebase files. There are APK files included 
 
 | Application Launch Screen | Menu Cart List      |
 | ---------------------- | ---------------------- |
-| ![vlcsnap-2023-07-20-22h34m33s612](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/f275902d-2e04-4afd-b83d-2b39062027dd) | ![vlcsnap-2023-07-20-22h34m56s937](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/7947ea4c-dcb2-4021-bb5a-bf992ee6c7da)
+| <img width="286" alt="Screen Shot 2023-09-25 at 12 18 58 AM" src="https://github.com/jyothi-koushik-1998/project6-java-android-expenseTracker/assets/47804397/639adcc4-39f9-4e0a-a39c-41ca27fdbf4d"> | <img width="291" alt="Screen Shot 2023-09-25 at 12 21 19 AM" src="https://github.com/jyothi-koushik-1998/project6-java-android-expenseTracker/assets/47804397/20ddae14-d3fd-4aed-8819-91c95f18b9dc"> |
+| <img width="291" alt="Screen Shot 2023-09-25 at 12 20 27 AM" src="https://github.com/jyothi-koushik-1998/project6-java-android-expenseTracker/assets/47804397/f0f9853e-7f0b-433f-892f-2ca633fdfb8b"> | <img width="286" alt="Screen Shot 2023-09-25 at 12 19 45 AM" src="https://github.com/jyothi-koushik-1998/project6-java-android-expenseTracker/assets/47804397/afa94690-691b-473c-8e3d-faa562dfcb5a"> |
  
-
-| Customer Bookings Tracker             | List of Confirmed Orders             |
-| ---------------------- | ---------------------- |
-| ![vlcsnap-2023-07-20-22h35m41s452](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/cc8087f8-aa08-4626-b7a0-c7abfdb8e41d) | ![vlcsnap-2023-07-20-22h35m52s496](https://github.com/jyothi-koushik-1998/project3-java-android-restapi-firebase-mobileapp/assets/47804397/8936714c-fc60-41d0-85d0-3a05cf50984e) |
-
 ## Contributions
 
 Please feel free to download the codebase and make some efficient modifications to the UI or the backend.
